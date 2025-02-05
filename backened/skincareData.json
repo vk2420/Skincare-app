@@ -1,0 +1,91 @@
+{
+  "oily": {
+    "morning": {
+      "cleanser": [
+        { "name": "CeraVe Hydrating Cleanser", "link": "https://amzn.to/example1" },
+        { "name": "Neutrogena Foaming Cleanser", "link": "https://amzn.to/example2" }
+      ],
+      "moisturizer": [
+        { "name": "Cetaphil Moisturizer", "link": "https://amzn.to/example3" },
+        { "name": "La Roche-Posay Moisturizer", "link": "https://amzn.to/example4" }
+      ],
+      "sunscreen": [
+        { "name": "Biore UV Aqua Rich", "link": "https://amzn.to/example5" },
+        { "name": "Neutrogena Ultra Sheer", "link": "https://amzn.to/example6" }
+      ]
+    },
+    "afternoon": ["Blotting Paper", "Oil-Free Hydration Mist"],
+    "evening": ["Gentle Cleanser", "Light Refreshing Moisturizer"],
+    "night": {
+      "cleanser": [
+        { "name": "Hada Labo Gentle Cleanser", "link": "https://amzn.to/example7" }
+      ],
+      "serum": [
+        { "name": "The Ordinary Niacinamide 10%", "link": "https://amzn.to/example8" },
+        { "name": "Cosrx Snail Mucin", "link": "https://amzn.to/example9" }
+      ],
+      "night_cream": [
+        { "name": "Laneige Water Sleeping Mask", "link": "https://amzn.to/example10" }
+      ]
+    },
+    "preOutdoor": ["Mattifying Sunscreen SPF 50", "Oil-Control Primer"],
+    "postOutdoor": ["Soothing Cleanser", "Aloe Vera Gel"]
+  },
+  
+  "dry": {
+    "morning": {
+      "cleanser": [
+        { "name": "Hydrating Cleanser", "link": "https://amzn.to/example11" }
+      ],
+      "moisturizer": [
+        { "name": "Moisturizer for Dry Skin", "link": "https://amzn.to/example12" }
+      ],
+      "sunscreen": [
+        { "name": "Moisturizing Sunscreen", "link": "https://amzn.to/example13" }
+      ]
+    },
+    "afternoon": ["Hydration Mist", "SPF Touch-Up Stick"],
+    "evening": ["Gentle Cleanser", "Nourishing Face Oil"],
+    "night": {
+      "cleanser": [
+        { "name": "Gentle Cleanser", "link": "https://amzn.to/example14" }
+      ],
+      "serum": [
+        { "name": "Hydrating Serum", "link": "https://amzn.to/example15" }
+      ],
+      "night_cream": [
+        { "name": "Rich Night Cream", "link": "https://amzn.to/example16" }
+      ]
+    },
+    "preOutdoor": ["Moisturizing Sunscreen", "Hydrating Lip Balm"],
+    "postOutdoor": ["Aloe-Infused Cleanser", "Deep Moisture Cream"]
+  },
+  "combination": {
+    "morning": {
+      "cleanser": [
+        { "name": "Balanced Cleanser", "link": "https://amzn.to/example17" }
+      ],
+      "moisturizer": [
+        { "name": "Lightweight Moisturizer", "link": "https://amzn.to/example18" }
+      ],
+      "sunscreen": [
+        { "name": "SPF Moisturizer", "link": "https://amzn.to/example19" }
+      ]
+    },
+    "afternoon": ["Mattifying Powder", "Soothing Face Mist"],
+    "evening": ["Mild Cleanser", "Vitamin C Serum"],
+    "night": {
+      "cleanser": [
+        { "name": "Mild Cleanser", "link": "https://amzn.to/example20" }
+      ],
+      "serum": [
+        { "name": "Balancing Serum", "link": "https://amzn.to/example21" }
+      ],
+      "night_cream": [
+        { "name": "Night Cream for Combination Skin", "link": "https://amzn.to/example22" }
+      ]
+    },
+    "preOutdoor": ["SPF Moisturizer", "Hydrating Sunscreen"],
+    "postOutdoor": ["Cooling Aloe Gel", "Skin Recovery Balm"]
+  }
+}
